@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 😄 ¡Hola soy Cynthia! Diseñadora gráfica con experiencia en diseño UX.<br>✨ He contribuido al desarrollo de sitios web y apps, liderando la creación de interfaces intuitivas y atractivas.<br>- 💖 Mi pasión por la tecnología me impulsa a enfrentar desafíos en el mundo tech.  <br>🌱- Durante estos 6 meses he desarrollado proyectos utilizando principalmente css, html, javascript.<br>👩🏽‍💻- ¡Lista para innovar y resolver problemas emocionantes en el mundo digital! 🌐
+😄 ¡Hola soy Cynthia! Diseñadora gráfica con experiencia en diseño UX.<br>✨ He contribuido al desarrollo de sitios web y apps, liderando la creación de interfaces intuitivas y atractivas.<br> 💖 Mi pasión por la tecnología me impulsa a enfrentar desafíos en el mundo tech.  <br>🌱 Durante estos 6 meses he desarrollado proyectos utilizando principalmente css, html, javascript.<br>👩🏽‍💻 ¡Lista para innovar y resolver problemas emocionantes en el mundo digital! 🌐
 
 
 ## 🌐 Socials:
